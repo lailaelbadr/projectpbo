@@ -1,2 +1,2 @@
 # projectpbo
-ini adalah project pbo
+ini adalah project Praktikum PBO kelompok 7
